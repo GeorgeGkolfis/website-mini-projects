@@ -1,9 +1,24 @@
-# 🥧 Traditional Pies Food Store Website
+# Projects Repository
 
-Welcome to the Traditional Pies Food Store Website mini project! This repository contains the code for a classic, user-friendly
-website designed for a traditional pie shop.
+Welcome to the repository! This repository contains various mini-projects about websites. Below is a brief overview of each project.
 
-## 🛠️ Technologies Used
+## Projects
+
+### Heavenly_Scoop's_website
+- Description: This project presents a vibrant front page of a website, for an ice cream store, heavily using Bootstrap.
+- Directory: `Heavenly_Scoop's_website`
+
+##🛠️ Technologies Used
+
+- **Bootstrap**: Extensively used for layout, responsive design, and pre-styled components.
+- **HTML5**: Provides the structure and semantics of the content.
+- **CSS3**: Used for additional styling beyond Bootstrap's default styles.
+
+### Traditional Pies Food Store Website
+- Description: This repository contains the code for a classic, user-friendly website designed for a traditional pie shop.
+- Directory: `website_for_a_pie_food_store`
+
+##🛠️ Technologies Used
 
 - **HTML5**: Structured the content of the website, ensuring it is semantic and accessible.
 - **CSS3**: Styled the website with a focus on traditional design elements, creating a warm and inviting user experience.
