@@ -13,6 +13,7 @@ Welcome to the repository! This repository contains various mini-projects about 
 - **Bootstrap**: Extensively used for layout, responsive design, and pre-styled components.
 - **HTML5**: Provides the structure and semantics of the content.
 - **CSS3**: Used for additional styling beyond Bootstrap's default styles.
+- **JavaScript**: Used only for scrolling effect of the navigation bar.
 
 ## Traditional Pies Food Store Website
 - Description: This repository contains the code for a classic, user-friendly website designed for a traditional pie shop.
